@@ -21,7 +21,6 @@ Fig. 1   without Trendline (above) and with (below)
 abstract: create easily interpreted visuals for any type of changing value over time
   
 inputs:
-- message--either a string or .txt file
 - CandleData--cell array { DateLabels(char) , Balance(double) }
 - xInterval--scalar double; date-axis label interval DEFAULT=7
 - yInterval--scalar double; dollar-axis tick interval, DEFAULT=1000
