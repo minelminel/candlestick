@@ -6,7 +6,7 @@ Designed for easy visualization of changing values, with single values for each 
 User has full control over the addition of a *trendline*
 Fig. 1   without Trendline (above) and with (below)
 ![candleimg1](https://user-images.githubusercontent.com/46664545/52989157-29434780-33d0-11e9-8da7-772e4531380f.jpg)
-> xInterval = 30
+> xInterval = 30, yInterval = 50
 
 
 *syntax:*
@@ -38,6 +38,6 @@ notes:
 
 Fig. 2   Simple example using 4 weeks of Google's NASDAQ Closing Prices
 ![candlestickimg2](https://user-images.githubusercontent.com/46664545/52988742-6dcde380-33ce-11e9-85c8-131c360ac45a.jpg)
-> xInterval = 7, yInterval = auto
+> xInterval = 7, yInterval = auto, TrendLine *off*
 
 
