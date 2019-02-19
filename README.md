@@ -2,6 +2,7 @@
 ###### Creates a simplified candlestick chart (without shadows) from cell array of [DateLabel Amount]
 
 Designed for easy visualization of changing values, with single values for each unique date
+
 User has full control over the addition of a *trendline*
 Fig. 1   without Trendline (above) and with (below)
 ![candleimg1](https://user-images.githubusercontent.com/46664545/52989157-29434780-33d0-11e9-8da7-772e4531380f.jpg)
