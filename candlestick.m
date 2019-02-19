@@ -1,5 +1,5 @@
 function [CandleBar,PrettyArray] = candlestick(CandleData,xInterval,yInterval,Title,TrendLineSpec)
-%   function [CandleBar, PrettyArray] = CANDLESTICK(CandleData,xInterval,yInterval,TrendLineSpec)
+%   function [CandleBar, PrettyArray] = CANDLESTICK(CandleData,yInterval,xInterval,Title,TrendLineSpec)
 % input arguments:
 %   CandleData........cell array; { DateLabels(char) , Balance(double) }
 %   xInterval.........scalar double; date-axis label interval DEFAULT=7
@@ -21,7 +21,7 @@ function [CandleBar,PrettyArray] = candlestick(CandleData,xInterval,yInterval,Ti
 % BY DEFAULT, TRENDLINE WILL NOT DISPLAY.
 % 
 % 
-% © Michael Lawrenson
+% Â© Michael Lawrenson
 % 18-Feb-2019 03:58:00
 
 trendlineON = false;
