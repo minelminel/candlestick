@@ -6,7 +6,7 @@ Designed for easy visualization of changing values, with single values for each 
 User has full control over the addition of a *trendline*
 Fig. 1   without Trendline (above) and with (below)
 ![candleimg1](https://user-images.githubusercontent.com/46664545/52989157-29434780-33d0-11e9-8da7-772e4531380f.jpg)
-> xInterval = 30, yInterval = 50
+> xInterval = 7, yInterval = 50
 
 
 *syntax:*
