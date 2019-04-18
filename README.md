@@ -1,4 +1,4 @@
-# candlestick
+# candlestick :candle:
 ###### :bar_chart: Creates a simplified candlestick chart (without shadows) from cell array of [DateLabel Amount]
 
 Designed for easy visualization of changing values, with single values for each unique date
