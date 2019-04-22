@@ -8,15 +8,18 @@ Fig. 1   without Trendline (above) and with (below)
 ![candleimg1](https://user-images.githubusercontent.com/46664545/52989157-29434780-33d0-11e9-8da7-772e4531380f.jpg)
 > xInterval = 7, yInterval = 50
 
+*wizard:*
+- NO
 
 *syntax:*
-> [CandleBar, PrettyArray] = candlestick(CandleData,xInterval,yInterval,Title,TrendLineSpec)
-
-*wizard:*
-> NO
+```
+[CandleBar, PrettyArray] = candlestick(CandleData,xInterval,yInterval,Title,TrendLineSpec)
+```
 
 *help:*
-> help candlestick
+```
+help candlestick
+```
 
 abstract: create easily interpreted visuals for any type of changing value over time
   
